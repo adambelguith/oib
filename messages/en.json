@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "title": "OIB Assainissement | Sanitation Île-de-France",
+    "description": "Compliance upgrades, sewer connections, lift pumps, pipe cleaning and camera inspection across Île-de-France. Free quote — 7-day service."
+  },
+  "nav": {
+    "services": "Services",
+    "zones": "Areas",
+    "realisations": "Projects",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "devis": "Free quote",
+    "diagnostic": "Diagnostic"
+  },
+  "emergency": {
+    "text": "Pipe emergency? Call",
+    "dismiss": "Dismiss"
+  },
+  "hero": {
+    "badge": "Île-de-France specialist",
+    "title": "Sanitation company in Île-de-France",
+    "subtitle": "Compliance upgrades, sewer connections, lift pumps, pipe cleaning and camera inspection — free quote and 7-day service.",
+    "ctaDevis": "Request a quote",
+    "ctaDiagnostic": "Find my service",
+    "ctaCall": "01 89 48 01 14"
+  },
+  "trust": {
+    "available": "7-day service",
+    "insurance": "10-year warranty insurance",
+    "spanc": "SPANC compliance",
+    "departments": "8 IDF departments",
+    "rating": "Excellent on Google"
+  },
+  "services": {
+    "title": "Our sanitation services",
+    "subtitle": "Complete solutions for homeowners and businesses across Île-de-France.",
+    "learnMore": "Learn more",
+    "viewAll": "View all services"
+  },
+  "diagnostic": {
+    "title": "Not sure what you need?",
+    "subtitle": "Our free diagnostic guides you to the right service in 4 questions.",
+    "cta": "Start diagnostic"
+  },
+  "testimonials": {
+    "title": "Trusted by our clients",
+    "subtitle": "Based on {count} Google reviews",
+    "excellent": "EXCELLENT"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "viewAll": "View all questions"
+  },
+  "cta": {
+    "title": "Planning a project?",
+    "subtitle": "Received a non-compliance report or need pipe maintenance? Contact us for a free quote.",
+    "button": "Get my quote"
+  },
+  "footer": {
+    "tagline": "Sanitation specialist across Île-de-France.",
+    "services": "Services",
+    "contact": "Contact",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved."
+  },
+  "mobileCta": {
+    "call": "Call",
+    "devis": "Quote",
+    "whatsapp": "WhatsApp"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Fast response — 7-day service across Île-de-France.",
+    "name": "Your name",
+    "email": "Your email",
+    "phone": "Your phone",
+    "service": "Request type",
+    "message": "Describe your needs",
+    "submit": "Send my request",
+    "success": "Message sent! We'll get back to you shortly.",
+    "error": "An error occurred. Please try again.",
+    "address": "Address",
+    "hours": "Availability",
+    "hoursValue": "7 days a week — emergencies accepted"
+  },
+  "devis": {
+    "title": "Free quote request",
+    "subtitle": "Complete this form in a few steps. No obligation.",
+    "step1": "Service",
+    "step2": "Location",
+    "step3": "Description",
+    "step4": "Contact",
+    "step5": "Confirmation",
+    "selectService": "Which service interests you?",
+    "selectDepartment": "Which department?",
+    "description": "Describe your situation",
+    "urgency": "Urgency level",
+    "urgencyNormal": "Normal",
+    "urgencyUrgent": "Urgent",
+    "urgencyEmergency": "Emergency",
+    "summary": "Summary",
+    "next": "Next",
+    "back": "Back",
+    "submit": "Send my request",
+    "successTitle": "Request sent!",
+    "successMessage": "We'll contact you as soon as possible.",
+    "newRequest": "New request"
+  },
+  "diagnosticPage": {
+    "title": "Free diagnostic",
+    "subtitle": "Answer 4 questions to find the right service for your situation.",
+    "q1": "Property type",
+    "q1o1": "Single-family home",
+    "q1o2": "Apartment / condo",
+    "q1o3": "Commercial / restaurant",
+    "q1o4": "Public authority",
+    "q2": "What's your problem?",
+    "q2o1": "Non-compliance / blocked sale",
+    "q2o2": "Mains sewer connection",
+    "q2o3": "Septic tank / micro-station",
+    "q2o4": "Lift pump failure",
+    "q2o5": "Blocked pipe / cleaning",
+    "q2o6": "Grease trap / oil separator",
+    "q3": "Urgency level",
+    "q3o1": "Not urgent — planned quote",
+    "q3o2": "Urgent — within 48h",
+    "q3o3": "Emergency — immediate intervention",
+    "q4": "Department",
+    "result": "Recommended service",
+    "resultCta": "Request a quote for this service",
+    "restart": "Start over"
+  },
+  "servicesPage": {
+    "title": "Our services",
+    "subtitle": "Complete sanitation solutions for Île-de-France."
+  },
+  "serviceDetail": {
+    "features": "What we do",
+    "cta": "Request a quote"
+  },
+  "zonesPage": {
+    "title": "Service areas",
+    "subtitle": "We operate across all 8 Île-de-France departments.",
+    "cta": "Quote in {dept}"
+  },
+  "realisationsPage": {
+    "title": "Our projects",
+    "subtitle": "Discover our recent work across Île-de-France."
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "subtitle": "Answers to the most common sanitation questions."
+  },
+  "legal": {
+    "mentionsTitle": "Legal notice",
+    "privacyTitle": "Privacy policy"
+  },
+  "serviceOptions": {
+    "mise-en-conformite": "Compliance upgrade",
+    "raccordement-ep-eu": "Mains sewer connection",
+    "fosses-microstations": "Septic tank / micro-station",
+    "pompes-relevage": "Lift pump",
+    "curage-inspection": "Pipe cleaning / unblocking",
+    "bacs-graisses": "Grease trap / oil separator",
+    "other": "Other"
+  }
+}

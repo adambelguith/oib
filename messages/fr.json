@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "title": "OIB Assainissement | Assainissement Île-de-France",
+    "description": "Mise en conformité, raccordement, pompes de relevage, curage et inspection caméra en Île-de-France. Devis gratuit — intervention 7j/7."
+  },
+  "nav": {
+    "services": "Services",
+    "zones": "Zones",
+    "realisations": "Réalisations",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "devis": "Devis gratuit",
+    "diagnostic": "Diagnostic"
+  },
+  "emergency": {
+    "text": "Urgence curage ? Appelez le",
+    "dismiss": "Fermer"
+  },
+  "hero": {
+    "badge": "Spécialiste Île-de-France",
+    "title": "Entreprise d'assainissement en Île-de-France",
+    "subtitle": "Mise en conformité, raccordement, pompes de relevage, curage et inspection caméra — devis gratuit et intervention 7j/7.",
+    "ctaDevis": "Demander un devis",
+    "ctaDiagnostic": "Trouver mon service",
+    "ctaCall": "01 89 48 01 14"
+  },
+  "trust": {
+    "available": "Intervention 7j/7",
+    "insurance": "Assurance décennale",
+    "spanc": "Conformité SPANC",
+    "departments": "8 départements IDF",
+    "rating": "Excellent sur Google"
+  },
+  "services": {
+    "title": "Nos services d'assainissement",
+    "subtitle": "Des solutions complètes pour particuliers et professionnels en Île-de-France.",
+    "learnMore": "En savoir plus",
+    "viewAll": "Voir tous les services"
+  },
+  "diagnostic": {
+    "title": "Pas sûr de votre besoin ?",
+    "subtitle": "Notre diagnostic gratuit vous oriente vers le bon service en 4 questions.",
+    "cta": "Lancer le diagnostic"
+  },
+  "testimonials": {
+    "title": "Ils nous font confiance",
+    "subtitle": "Basé sur {count} avis Google",
+    "excellent": "EXCELLENT"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "viewAll": "Voir toutes les questions"
+  },
+  "cta": {
+    "title": "Un projet de travaux ?",
+    "subtitle": "Rapport de non-conformité ou entretien de canalisations ? Contactez-nous pour un devis gratuit.",
+    "button": "Obtenir mon devis"
+  },
+  "footer": {
+    "tagline": "Spécialiste en assainissement en Île-de-France.",
+    "services": "Services",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Confidentialité",
+    "rights": "Tous droits réservés."
+  },
+  "mobileCta": {
+    "call": "Appeler",
+    "devis": "Devis",
+    "whatsapp": "WhatsApp"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Réponse rapide — intervention 7j/7 en Île-de-France.",
+    "name": "Votre nom",
+    "email": "Votre e-mail",
+    "phone": "Votre téléphone",
+    "service": "Type de demande",
+    "message": "Décrivez votre besoin",
+    "submit": "Envoyer ma demande",
+    "success": "Message envoyé ! Nous vous répondrons rapidement.",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "address": "Adresse",
+    "hours": "Disponibilité",
+    "hoursValue": "7j/7 — urgences acceptées"
+  },
+  "devis": {
+    "title": "Demande de devis gratuit",
+    "subtitle": "Remplissez ce formulaire en quelques étapes. Sans engagement.",
+    "step1": "Service",
+    "step2": "Localisation",
+    "step3": "Description",
+    "step4": "Coordonnées",
+    "step5": "Confirmation",
+    "selectService": "Quel service vous intéresse ?",
+    "selectDepartment": "Dans quel département ?",
+    "description": "Décrivez votre situation",
+    "urgency": "Niveau d'urgence",
+    "urgencyNormal": "Normal",
+    "urgencyUrgent": "Urgent",
+    "urgencyEmergency": "Urgence",
+    "summary": "Récapitulatif",
+    "next": "Suivant",
+    "back": "Retour",
+    "submit": "Envoyer ma demande",
+    "successTitle": "Demande envoyée !",
+    "successMessage": "Nous vous contacterons dans les plus brefs délais.",
+    "newRequest": "Nouvelle demande"
+  },
+  "diagnosticPage": {
+    "title": "Diagnostic gratuit",
+    "subtitle": "Répondez à 4 questions pour trouver le service adapté à votre situation.",
+    "q1": "Type de bien",
+    "q1o1": "Maison individuelle",
+    "q1o2": "Appartement / copropriété",
+    "q1o3": "Local professionnel / restaurant",
+    "q1o4": "Collectivité",
+    "q2": "Quel est votre problème ?",
+    "q2o1": "Non-conformité / vente bloquée",
+    "q2o2": "Raccordement au tout-à-l'égout",
+    "q2o3": "Fosse / microstation",
+    "q2o4": "Pompe de relevage en panne",
+    "q2o5": "Canalisation bouchée / curage",
+    "q2o6": "Bac à graisses / hydrocarbures",
+    "q3": "Niveau d'urgence",
+    "q3o1": "Pas urgent — devis planifié",
+    "q3o2": "Urgent — sous 48h",
+    "q3o3": "Urgence — intervention immédiate",
+    "q4": "Département",
+    "result": "Service recommandé",
+    "resultCta": "Demander un devis pour ce service",
+    "restart": "Recommencer"
+  },
+  "servicesPage": {
+    "title": "Nos services",
+    "subtitle": "Solutions complètes d'assainissement pour l'Île-de-France."
+  },
+  "serviceDetail": {
+    "features": "Ce que nous faisons",
+    "cta": "Demander un devis"
+  },
+  "zonesPage": {
+    "title": "Zones d'intervention",
+    "subtitle": "Nous intervenons dans les 8 départements d'Île-de-France.",
+    "cta": "Devis en {dept}"
+  },
+  "realisationsPage": {
+    "title": "Nos réalisations",
+    "subtitle": "Découvrez nos chantiers récents en Île-de-France."
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "subtitle": "Réponses aux questions les plus fréquentes sur l'assainissement."
+  },
+  "legal": {
+    "mentionsTitle": "Mentions légales",
+    "privacyTitle": "Politique de confidentialité"
+  },
+  "serviceOptions": {
+    "mise-en-conformite": "Mise en conformité",
+    "raccordement-ep-eu": "Raccordement tout-à-l'égout",
+    "fosses-microstations": "Micro-station / Fosse toutes eaux",
+    "pompes-relevage": "Pompe de relevage",
+    "curage-inspection": "Curage / Débouchage",
+    "bacs-graisses": "Bac à graisses / Hydrocarbures",
+    "other": "Autre"
+  }
+}

@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OIB Assainissement — Next.js Marketing Site
+
+Modern bilingual (FR/EN) marketing website for [OIB Assainissement](https://oibassainissement.fr/), a sanitation company in Île-de-France.
+
+## Features
+
+- Bilingual routing (`/fr`, `/en`) with next-intl
+- 6 service pages with SEO metadata
+- 8 department landing pages for local SEO
+- Multi-step quote wizard (`/devis`)
+- Service finder diagnostic (`/diagnostic`)
+- Contact form with Resend email integration
+- Mobile sticky CTA (Call / Quote / WhatsApp)
+- JSON-LD structured data for LocalBusiness
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
+cp .env.example .env.local
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/fr](http://localhost:3000/fr)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Variable | Description |
+|----------|-------------|
+| `RESEND_API_KEY` | API key from [Resend](https://resend.com) |
+| `CONTACT_EMAIL` | Inbox for form submissions |
+| `FROM_EMAIL` | Verified sender address in Resend |
 
-## Learn More
+Without `RESEND_API_KEY`, forms validate and log to console (dev mode).
 
-To learn more about Next.js, take a look at the following resources:
+## Scripts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run dev      # Development server
+npm run build    # Production build
+npm run start    # Production server
+npm run lint     # ESLint
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js 16 (App Router)
+- TypeScript
+- Tailwind CSS v4
+- shadcn/ui (Radix primitives)
+- next-intl
+- Resend
+- Framer Motion
+- Zod + React Hook Form
